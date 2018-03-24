@@ -1,4 +1,4 @@
-# Description
+# Daily scripts
 
 Here is a daily scripts collection, it's my Monica closet.
 
@@ -6,7 +6,7 @@ Here is a daily scripts collection, it's my Monica closet.
 [What is LaTeX?](#what-is-latex)
 -->
 
-## Scripts
+## Description of scripts
 
 ### Gridregress.py
 
