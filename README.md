@@ -1,4 +1,5 @@
 # Description
+
 Here is a daily scripts collection, it's my Monica closet.
 
 <!-- Markdown
@@ -6,10 +7,12 @@ Here is a daily scripts collection, it's my Monica closet.
 -->
 
 ## Scripts
-### Gridregress.py:
-* Stack time series data
-* Multiple regression
-* Partial correlation
-* Parallel grid operation
+
+### Gridregress.py
+
+-   Stack time series data
+-   Multiple regression
+-   Partial correlation
+-   Parallel grid operation
 
 Core modules: multiprocessing, numpy, sklearn, gdal
